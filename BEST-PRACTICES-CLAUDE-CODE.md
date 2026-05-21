@@ -506,4 +506,4 @@ Key security signals to monitor:
 
 ---
 
-*Sources: [Monitoring Usage](https://code.claude.com/docs/en/monitoring-usage) · [Manage Costs](https://code.claude.com/docs/en/costs) · [Team Analytics](https://code.claude.com/docs/en/analytics)*
+*Sources: [Monitoring Usage](https://code.claude.com/docs/en/monitoring-usage) · [Manage Costs](https://code.claude.com/docs/en/costs) · [Team Analytics](https://code.claude.com/docs/en/analytics) · [Model Pricing](https://platform.claude.com/docs/en/about-claude/pricing#model-pricing)*
