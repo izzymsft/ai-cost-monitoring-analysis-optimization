@@ -276,7 +276,7 @@ A cheaper model is not better if it causes retries, bad answers, support tickets
 
 ## Recommended operating model
 
-For production AI agents, I would manage these three areas together as one loop:
+For production AI agents, we would manage these three areas together as one loop:
 
 ```text
 1. Observe
