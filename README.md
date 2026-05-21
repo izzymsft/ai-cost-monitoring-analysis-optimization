@@ -1,6 +1,7 @@
 ## AI Apps Cost Monitoring, Analysis and Optimization
 A repo with best practices on how to monitor, analyze and optimize costs for AI systems
 
+- [Managing Costs in Agentic Applications](./AGENTIC-APPS-COST-MANAGEMENT.md)
 - [Claude Code Tips for Managing Tokens](./CLAUDE-CODE-TIPS.md)
 - [Tips for Claude Code and Agentic IDEs](./BEST-PRACTICES-CLAUDE-CODE.md)
 - [Deploying Models using Bicep and Azure CLI](https://learn.microsoft.com/en-us/azure/foundry/foundry-models/how-to/create-model-deployments?pivots=programming-language-bicep)
